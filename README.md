@@ -14,7 +14,7 @@ Este proyecto analiza los datos de clientes de una compañía de telecomunicacio
 ## Dashboard
 - Gráfico principal: porcentaje de clientes que abandonan (Churn Yes/No) según tipo de contrato.
 - Colores consistentes y etiquetas de datos para mejorar la comprensión de los insights.
-- ![Dashboard](images/img_1.png)
+- ![Dashboard](images/img_1)
 
 
 ## Cómo usarlo

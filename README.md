@@ -32,8 +32,4 @@ Este proyecto analiza los datos de clientes de una compañía de telecomunicacio
 
 
 ## Contribuciones
-Proyecto de análisis personal para portfolio. No se aceptan cambios externos.
-
----
-
-💡 **Tip:** Si quieres subirlo a LinkedIn, puedes copiar la **descripción corta** y agregar una **captura de tu dashboard**, que siempre atrae más vistas.  
+Proyecto de análisis personal para portfolio. 

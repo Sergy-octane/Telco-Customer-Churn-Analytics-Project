@@ -17,9 +17,11 @@ Este proyecto analiza los datos de clientes de una compañía de telecomunicacio
 
 <<<<<<< HEAD
 =======
-## Imagen del dashboard
+## Imagen del dashboard en Power BI
 ![Dashboard](analisis-datos-proyectos-churn/images/img_1.png)
 
+## Imagen del dashboard en Jupyter Notebook
+![Dashboard](analisis-datos-proyectos-churn/images/img_2.png)
 
 
 

@@ -15,15 +15,6 @@ Este proyecto analiza los datos de clientes de una compañía de telecomunicacio
 - Gráfico principal: porcentaje de clientes que abandonan (Churn Yes/No) según tipo de contrato.
 - Colores consistentes y etiquetas de datos para mejorar la comprensión de los insights.
 
-<<<<<<< HEAD
-=======
-## Imagen del dashboard
-![Dashboard](analisis-datos-proyectos-churn/images/img_1.png)
-
-
-
-
->>>>>>> 923855d41b45a939d09cb7844db5a361c7a8e1bf
 ## Cómo usarlo
 1. Descargar el archivo `Telco_Customer_Churn_Dashboard.pbix`.
 2. Abrirlo en Power BI Desktop (versión 2025 o superior).
